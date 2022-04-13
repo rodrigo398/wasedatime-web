@@ -29,7 +29,7 @@ specifiers:
   react: 17.0.2
   react-dom: 17.0.2
   single-spa-react: 3.2.0
-  ts-config-single-spa: 2.0.1
+  ts-config-single-spa: 3.0.0
   ts-loader: 9.2.8
   typescript: 4.6.2
   webpack: 5.70.0
@@ -69,7 +69,7 @@ devDependencies:
   eslint-plugin-react: 7.29.4_eslint@8.10.0
   prettier: 2.5.1
   prettier-eslint: 13.0.0
-  ts-config-single-spa: 2.0.1
+  ts-config-single-spa: 3.0.0
   ts-loader: 9.2.8_typescript@4.6.2+webpack@5.70.0
   typescript: 4.6.2
   webpack: 5.70.0_webpack-cli@4.9.2
@@ -5961,8 +5961,8 @@ packages:
     hasBin: true
     dev: true
 
-  /ts-config-single-spa/2.0.1:
-    resolution: {integrity: sha512-zGTozFbnMqdoNCsOJ+gqYSJNIm7QUJtN/3o8uyOCuFxwfrBETQ+lyHnvvgVO29IEVhhrnOp6NQAyOIVE8lmqxA==}
+  /ts-config-single-spa/3.0.0:
+    resolution: {integrity: sha512-SS24+FHn9mi0awcoHN4l6uioBxPjgOnwI8adVZeNnw8oXJ8VyAGDqBfRF1EMVtd9Va0bxA8kkeU0SWtLS/Guvg==}
     dev: true
 
   /ts-loader/9.2.8_typescript@4.6.2+webpack@5.70.0:

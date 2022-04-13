@@ -91,7 +91,7 @@ specifiers:
   style-loader: 3.3.1
   styled-components: 5.3.3
   tailwindcss: ^3.0.23
-  ts-config-single-spa: 2.0.1
+  ts-config-single-spa: 3.0.0
   ts-loader: 9.2.8
   typescript: 4.6.2
   webpack: 5.70.0
@@ -194,7 +194,7 @@ devDependencies:
   sass-loader: 12.6.0_sass@1.49.9+webpack@5.70.0
   style-loader: 3.3.1_webpack@5.70.0
   tailwindcss: 3.0.23_autoprefixer@10.4.4
-  ts-config-single-spa: 2.0.1
+  ts-config-single-spa: 3.0.0
   ts-loader: 9.2.8_typescript@4.6.2+webpack@5.70.0
   typescript: 4.6.2
   webpack: 5.70.0_webpack-cli@4.9.2
@@ -11398,8 +11398,8 @@ packages:
     resolution: {integrity: sha512-c3zayb8/kWWpycWYg87P71E1S1ZL6b6IJxfb5fvsUgsf0S2MVGaDhDXXjDMpdCpfWXqptc+4mXwmiy1ypXqRAA==}
     dev: true
 
-  /ts-config-single-spa/2.0.1:
-    resolution: {integrity: sha512-zGTozFbnMqdoNCsOJ+gqYSJNIm7QUJtN/3o8uyOCuFxwfrBETQ+lyHnvvgVO29IEVhhrnOp6NQAyOIVE8lmqxA==}
+  /ts-config-single-spa/3.0.0:
+    resolution: {integrity: sha512-SS24+FHn9mi0awcoHN4l6uioBxPjgOnwI8adVZeNnw8oXJ8VyAGDqBfRF1EMVtd9Va0bxA8kkeU0SWtLS/Guvg==}
     dev: true
 
   /ts-loader/9.2.8_typescript@4.6.2+webpack@5.70.0:
