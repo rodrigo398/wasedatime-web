@@ -50,7 +50,7 @@
     "prettier": "2.5.1",
     "prettier-eslint": "13.0.0",
     "react-scripts": "5.0.0",
-    "sass": "1.49.9",
+    "sass": "1.50.1",
     "sass-loader": "12.6.0",
     "single-spa-react": "4.6.1",
     "style-loader": "3.3.1",
